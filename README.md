@@ -18,7 +18,7 @@ It uses:
 - a routehandler
 - modified global.asax with registered routes
 
-## sensenet application
+## Sensenet application
 
 This solution is yet to think through. Possibly it will work as
 - has to have a root Application to serve opds start point
@@ -29,7 +29,7 @@ This solution is yet to think through. Possibly it will work as
 This solution relies on client to use navigation wisely. 
 
 It uses:
-- only an odata action
+- only a custom odata action
 
 ## hardlinked contents
 
